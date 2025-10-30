@@ -1,0 +1,1 @@
+gcc main.c -o out/simple-db -std=c99
